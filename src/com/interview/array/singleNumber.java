@@ -1,4 +1,4 @@
-package src.com.interview.array;
+package com.interview.array;
 
 public class SingleNumber {
 
